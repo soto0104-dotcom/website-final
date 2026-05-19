@@ -4,90 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a7eea7b-bb10-4cfb-8ce5-f55622909326" name="Changes" comment="finished!">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5cc20082e56d691699d912aa9eb7983e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bigmouth Strikes Again (2011 Remaster).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Build God, Then We'll Talk.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frankenstein movie poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/System Of A Down - Aerials (Official HD Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Cure - Let's Go To Bed.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Aesthetic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Ithornët.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MonospaceTypewriter.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/aesthetic.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/aesthetic/Aesthetic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/evanescent.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/evanescent.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/evanescent/The Evanescence Font .Aeryn's Foundry..url" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/evanescent/evanescent_p.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ithornet.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ithornet/DIRT2.COM.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ithornet/NON COMMERCIAL USE/Ithornët.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/kingjola.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/kingjola.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/monospace_typewrite.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/old_skull_hellron.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/old_skull_hellron/Old_Skull_Hellron.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ruritania.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ruritania/Ruritania-Outline.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ruritania/Ruritania.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/giii.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jappanese whispers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jennifer!!.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/panic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pearl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pearlll.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picofme.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sys.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/5cc20082e56d691699d912aa9eb7983e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Bigmouth Strikes Again (2011 Remaster).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Build God, Then We'll Talk.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Frankenstein movie poster.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/System Of A Down - Aerials (Official HD Video).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/The Cure - Let's Go To Bed.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cure.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/Aesthetic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/Ithornët.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/MonospaceTypewriter.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/aesthetic.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/aesthetic/Aesthetic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/download.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/evanescent.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/evanescent.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/evanescent/The Evanescence Font .Aeryn's Foundry..url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/evanescent/evanescent_p.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/ithornet.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/ithornet/DIRT2.COM.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/ithornet/NON COMMERCIAL USE/Ithornët.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/kingjola.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/kingjola.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/monospace_typewrite.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/old_skull_hellron.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/old_skull_hellron/Old_Skull_Hellron.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/ruritania.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/ruritania/Ruritania-Outline.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fonts/ruritania/Ruritania.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/giii.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jappanese whispers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jennifer!!.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/panic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/patd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pearl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pearlll.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/picofme.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/soad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sys.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+    <list default="true" id="1a7eea7b-bb10-4cfb-8ce5-f55622909326" name="Changes" comment="assets moved to correct place">
       <change beforePath="$PROJECT_DIR$/homestyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/homestyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movies.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
@@ -148,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\edith\OneDrive\Desktop\2025-2026\spring 2026\spring 2026 interactive DES\GDES 2342 spring Projects\website final" />
       <recent name="C:\Users\edith\OneDrive\Desktop\2025-2026\spring 2026\spring 2026 interactive DES\GDES 2342 spring Projects\website final\.idea\fonts" />
       <recent name="C:\Users\edith\OneDrive\Desktop\2025-2026\spring 2026\spring 2026 interactive DES\GDES 2342 spring Projects\website final\.idea" />
     </key>
@@ -168,7 +86,7 @@
       <updated>1776760687281</updated>
       <workItem from="1776760688304" duration="31000" />
       <workItem from="1778619106342" duration="31971000" />
-      <workItem from="1779146308115" duration="1785000" />
+      <workItem from="1779146308115" duration="2321000" />
     </task>
     <task id="LOCAL-00001" summary="finished!">
       <option name="closed" value="true" />
@@ -178,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778714948830</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="assets moved to correct place">
+      <option name="closed" value="true" />
+      <created>1779154284290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779154284291</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished!" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished!" />
+    <MESSAGE value="assets moved to correct place" />
+    <option name="LAST_COMMIT_MESSAGE" value="assets moved to correct place" />
   </component>
 </project>
